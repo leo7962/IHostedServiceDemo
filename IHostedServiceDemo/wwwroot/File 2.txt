@@ -1,0 +1,16 @@
+WriteToFileHostedService: Process Started
+WriteToFileHostedService: Doing some work at 07/10/2019 11:27:41
+WriteToFileHostedService: Doing some work at 07/10/2019 11:27:49
+WriteToFileHostedService: Doing some work at 07/10/2019 11:27:56
+WriteToFileHostedService: Doing some work at 07/10/2019 11:28:02
+WriteToFileHostedService: Doing some work at 07/10/2019 11:28:09
+WriteToFileHostedService: Doing some work at 07/10/2019 11:28:16
+WriteToFileHostedService: Doing some work at 07/10/2019 11:28:23
+WriteToFileHostedService: Doing some work at 07/10/2019 11:28:30
+WriteToFileHostedService: Doing some work at 07/10/2019 11:28:37
+WriteToFileHostedService: Doing some work at 07/10/2019 11:28:44
+WriteToFileHostedService: Doing some work at 07/10/2019 11:28:51
+WriteToFileHostedService: Doing some work at 07/10/2019 11:28:58
+WriteToFileHostedService: Doing some work at 07/10/2019 11:29:05
+WriteToFileHostedService: Doing some work at 07/10/2019 11:29:12
+WriteToFileHostedService: Process Stopped

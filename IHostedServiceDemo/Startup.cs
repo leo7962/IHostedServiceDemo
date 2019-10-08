@@ -25,6 +25,8 @@ namespace IHostedServiceDemo
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddTransient<Microsoft.Extensions.Hosting.IHostedService, WriteToFileHostedService>();
+            services.AddTransient<Microsoft.Extensions.Hosting.IHostedService, WriteToFileHostedService2>();
+
 
             services.AddControllersWithViews();
         }
